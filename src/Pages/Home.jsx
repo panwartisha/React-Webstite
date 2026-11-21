@@ -1,11 +1,11 @@
 import React from 'react'
-import Mynav from '../Components/Mynav'
-import Para from '../Components/para';
+import Mynav from '../Components/Mynav.jsx'
+import Para from "../Components/Para.jsx";
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import Footer from '../Components/Footer';
-import Gallery from '../Components/Gallery';
+import Footer from '../Components/Footer.jsx';
+import Gallery from '../Components/Gallery.jsx';
 
 function Home() {
     return (

@@ -1,8 +1,8 @@
 import React from 'react'
-import Mynav from '../Components/Mynav'
-import Footer from '../Components/Footer'
-import Para from '../Components/para'
-import Teachers from '../Components/Teachers'
+import Mynav from '../Components/Mynav.jsx'
+import Footer from '../Components/Footer.jsx'
+import Para from '../Components/Para.jsx'
+import Teachers from '../Components/Teachers.jsx'
 
 function About() {
   return (
